@@ -17,7 +17,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "ch.alex.smolders"
     },
     "android": {
       "adaptiveIcon": {
@@ -29,4 +30,5 @@
       "favicon": "./assets/favicon.png"
     }
   }
+  
 }

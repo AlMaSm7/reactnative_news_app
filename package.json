@@ -18,5 +18,10 @@
   "devDependencies": {
     "@babel/core": "^7.9.0"
   },
-  "private": true
+  "private": true,
+  "name": "news_app_native",
+  "version": "1.0.0",
+  "author": "Alex Matteo Smolders",
+  "license": "ISC",
+  "description": "first app alex Smolders"
 }
